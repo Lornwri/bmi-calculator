@@ -38,6 +38,7 @@ const clearData = () => {
   </div>
 </template>
 
+
 <style scoped>
 
 </style>
