@@ -61,5 +61,14 @@ watch(
 </template>
 
 <style scoped>
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  }
 
 </style>
